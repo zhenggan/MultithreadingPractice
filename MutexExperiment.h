@@ -1,5 +1,5 @@
-#ifndef __X_H_INCLUDED__ 
-#define __X_H_INCLUDED__ 
+#ifndef _MUTEXEXPERIMENT_H_ 
+#define _MUTEXEXPERIMENT_H_ 
 
 void *incrementCounter(void *arg);
 void MutexExperiment();
